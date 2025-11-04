@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com,proxy
 DOMAIN-SUFFIX,apple-relay.cloudflare.com,proxy
 DOMAIN-SUFFIX,*smoot.apple.com,proxy
 DOMAIN-SUFFIX,guzzoni.apple.com,proxy
+DOMAIN-SUFFIX,gateway.icloud.com,Proxy
